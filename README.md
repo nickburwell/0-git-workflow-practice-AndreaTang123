@@ -15,3 +15,5 @@ Moreover, the Twelve-Factor methodology promotes continuous deployment and integ
 ## What I Find Interesting - Nick Burwell
 
 I thought the format of of this article and project was interesting and made the experience enjoyable and easy to digest. As it pertains to the content of the article I liked the idea of 'Concurrecny' which was about how the app would scale in a twelve factor app using the process model. I think I enjoyed that idea specifically because it is set up in a way that as the system is stressed and more and different types of processes are running the the more the system "shines". Having a specific process type for specific types of workloads makes increased stress from scale much more manageable.
+
+--Deleted my branch after I uploaded the changes the first time so I'm doing it again
